@@ -4,4 +4,5 @@ Python function runtime profiler with a single decorator.
 
 ## Install
 ```bash
-pip install negilib
+
+python -m pip install git+https://github.com/kusogakill/negilib.git
